@@ -24,3 +24,22 @@ I am a software development focus on data engineering and data science. I was wo
 📊 I am passionate about software development and I am focused on the constant acquisition of knowledge.
 
 💬 You can ask me anything. If I can help you, I will do it with pleasure.
+
+
+
+## 🎯 Some Technologies I use:
+<p align="center">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Utbuntu">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">&nbsp;&nbsp;
+</p>
+
+##  Find me around the web:
+- Writing in <a href="https://dev.to/javieramayapat">Dev.to</a>
+- Posting tips on <a href="https://twitter.com/javieramayapat">Twitter</a>
+- Learn more about me at <a href="www.linkedin.com/in/cirilotinosalgado">Linkedin</a> 👨‍💼
+
