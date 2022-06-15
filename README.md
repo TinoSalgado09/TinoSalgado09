@@ -35,7 +35,7 @@ I am a software development focus on data engineering and data science. I was wo
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?&style=for-the-badge&logo=react&logoColor=white" alt="React">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Boostrap">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-0081CB?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;&nbsp;
